@@ -1,0 +1,22 @@
+{
+  "name": "launch3r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "launch3r.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revolvermann76/launch3r.git"
+  },
+  "author": "Marc Langer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revolvermann76/launch3r/issues"
+  },
+  "homepage": "https://github.com/revolvermann76/launch3r#readme",
+  "dependencies": {
+    "iohook": "^0.6.6"
+  }
+}
